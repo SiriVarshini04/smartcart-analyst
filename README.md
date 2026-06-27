@@ -7,7 +7,7 @@ A full-stack NLP web application that analyzes Amazon product reviews to detect 
 - **Backend API:** https://smartcart-analyst.onrender.com
 
 ## 🖼️ Screenshots
-![SmartCart Analyst Dashboard](screenshot.png)
+<img width="1918" height="1026" alt="image" src="https://github.com/user-attachments/assets/1dcaa099-fbaf-4955-94c9-78aed48a2b8b" />
 
 ## 🚀 Features
 - **Sentiment Analysis** — scores product reviews from -1 (negative) to +1 (positive) using VADER NLP
@@ -112,10 +112,3 @@ POST /analyze
 - Migrate backend to PostgreSQL for production scalability
 - Add review export to CSV/PDF
 
-## 👩‍💻 Author
-**Siri Varshini**
-- GitHub: [@SiriVarshini04](https://github.com/SiriVarshini04)
-- LinkedIn: [your-linkedin-url]
-
-## 📄 License
-MIT License
