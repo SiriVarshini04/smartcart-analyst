@@ -64,7 +64,7 @@ export default function App() {
           SmartCart Analyst
         </h1>
         <p style={{ color: "#94a3b8", fontSize: "16px", margin: 0 }}>
-          AI-powered product review intelligence
+          NLP-powered product review intelligence
         </p>
       </div>
 

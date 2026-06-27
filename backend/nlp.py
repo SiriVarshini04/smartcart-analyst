@@ -1,3 +1,8 @@
+import nltk
+
+# Download VADER lexicon if it is not available
+nltk.download("vader_lexicon")
+
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 from sklearn.feature_extraction.text import TfidfVectorizer
 import numpy as np
